@@ -1,0 +1,6 @@
+Alice   8.50   5.30
+Bruno   4.20   2.50
+Carla   2.80   3.40
+Daniel   9.00   7.30
+Marcia   6.50   7.20
+Pedro   2.10   9.70
